@@ -1,9 +1,9 @@
 # fake-api-7tech
 
 Первичная установка
-npm install json-sever --save
-npm install faker --save
-npm install jsonwebtoken --save 
+$ npm install json-sever --save
+$ npm install faker --save
+$ npm install jsonwebtoken --save
 
 Запуск без авторизации
 npm run start
