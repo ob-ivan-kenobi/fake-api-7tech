@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "json-server --watch ./db.json",
+    "start-auth": "node server.js"
+  }
+}
