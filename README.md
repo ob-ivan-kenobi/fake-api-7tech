@@ -2,7 +2,7 @@
 
 Первичная установка
 ```
-npm install json-sever --save
+npm install json-server --save
 npm install faker --save
 npm install jsonwebtoken --save
 ```
